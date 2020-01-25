@@ -2,22 +2,11 @@ Data Structures
 ===============
 
 
-Types
------
-
-- Tuple
-- List
-- Keyword
-- Map
-- MapSet
-- Struct
-
-
 Tuple
 -----
 
 ```elixir
-iex> tuple = {1, :two, "three"} 
+iex> tuple = {1, :two, "three"}  
 iex> elem(tuple, 0)
 1
 iex> elem(tuple, 2) 
